@@ -1,0 +1,2 @@
+O monitor é o principal dispositivo de saída de vídeo, recebendo dados processados pela CPU e transformando-os em imagens.
+Sem ele, não seria possível visualizar sites, documentos ou interagir com o sistema operacional.

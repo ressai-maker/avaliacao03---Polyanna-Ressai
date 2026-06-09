@@ -1,0 +1,2 @@
+A memória do computador é qualquer componente de hardware responsável por armazenar dados e programas, seja de forma temporária ou permanente.
+Ela é a "mesa de trabalho" do sistema, fornecendo à CPU (Processador) o acesso ultrarrápido às informações necessárias para executar as tarefas.
