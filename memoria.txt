@@ -10,3 +10,10 @@ Memória Principal (RAM):
 Função: Armazena os dados dos programas e arquivos que estão em uso no exato momento em que você utiliza o computador.
 Volatilidade: É uma memória volátil, ou seja, ela é apagada completamente assim que o computador é desligado ou reiniciado.
 Importância: Quanto maior a quantidade de memória RAM, mais aplicativos você consegue manter abertos ao mesmo tempo sem que o computador fique lento.
+
+Memória Secundária (Armazenamento)
+
+É a memória de longo prazo. Exemplos incluem o Disco Rígido (HD), Unidades de Estado Sólido (SSD), pen drives e cartões de memória.
+
+Função: Salva todos os seus arquivos, fotos, jogos e o próprio sistema operacional para que não sejam perdidos quando a máquina for desligada.
+Características: Não é volátil. Os dados ficam guardados mesmo sem energia, mas o processo de leitura e escrita costuma ser mais lento do que na memória RAM.

@@ -9,3 +9,8 @@ VA: Oferece melhor contraste e tons de preto mais profundos.
 OLED: Tecnologia onde cada pixel emite sua própria luz, resultando em pretos puros e contraste infinito, excelente para games e filmes.
 
 Imagem: https://conectaja.proteste.org.br/wp-content/uploads/2021/08/photo-1587831990711-23ca6441447b-889x472.jpg
+
+Formatos e Resoluções
+
+Resolução: Determina a nitidez da imagem. As mais comuns vão de Full HD (1920x1080) até Quad HD (2560x1440) e 4K (3840x2160).
+Formato (Proporção): O modelo padrão é o widescreen (16:9), mais retangular. Existem também os modelos ultrawide (21:9), que são mais esticados horizontalmente e ótimos para produtividade e jogos.
