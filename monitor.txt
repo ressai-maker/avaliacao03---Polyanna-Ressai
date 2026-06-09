@@ -1,2 +1,11 @@
 O monitor é o principal dispositivo de saída de vídeo, recebendo dados processados pela CPU e transformando-os em imagens.
 Sem ele, não seria possível visualizar sites, documentos ou interagir com o sistema operacional.
+
+Tipos de Monitores e Painéis
+
+LCD/LED: A grande maioria dos monitores atuais utiliza telas de cristal líquido (LCD) iluminadas por painéis de LED.
+IPS: Oferece cores mais vivas e ótimos ângulos de visão, ideal para quem trabalha com edição de imagem.
+VA: Oferece melhor contraste e tons de preto mais profundos.
+OLED: Tecnologia onde cada pixel emite sua própria luz, resultando em pretos puros e contraste infinito, excelente para games e filmes.
+
+Imagem: https://conectaja.proteste.org.br/wp-content/uploads/2021/08/photo-1587831990711-23ca6441447b-889x472.jpg

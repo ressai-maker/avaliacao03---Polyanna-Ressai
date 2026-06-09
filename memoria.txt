@@ -2,3 +2,11 @@ A memória do computador é qualquer componente de hardware responsável por arm
 Ela é a "mesa de trabalho" do sistema, fornecendo à CPU (Processador) o acesso ultrarrápido às informações necessárias para executar as tarefas.
 
 Imagem: https://s.zst.com.br/cms-assets/2021/01/qual-quantidade-memoria-ram-o-que-e-ideal-para-seu-pc.jpg
+
+Memória Principal (RAM):
+
+É a memória de curto prazo do computador. A sigla significa Random Access Memory (Memória de Acesso Aleatório).
+
+Função: Armazena os dados dos programas e arquivos que estão em uso no exato momento em que você utiliza o computador.
+Volatilidade: É uma memória volátil, ou seja, ela é apagada completamente assim que o computador é desligado ou reiniciado.
+Importância: Quanto maior a quantidade de memória RAM, mais aplicativos você consegue manter abertos ao mesmo tempo sem que o computador fique lento.
